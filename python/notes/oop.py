@@ -69,3 +69,4 @@ c1.show ()
 # Much cleaner! And you can call methods like:
 #   player1.take_damage(10)
 #   player2.level_up()
+
