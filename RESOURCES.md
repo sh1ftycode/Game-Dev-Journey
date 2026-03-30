@@ -2,8 +2,9 @@
 
 ## C# & Unity
 - [Microsoft C# Documentation](https://docs.microsoft.com/en-us/dotnet/csharp/)
-- [Unity Networking](https://docs.unity3d.com/Manual/UNet.html)
-- [Netcode for GameObjects](https://github.com/Unity-Technologies/netcode.for.gameobjects)
+- [Unity Editor Tutorial](https://learn.unity.com/tutorial/get-started-with-unity-in-editor-tutorial)
+- [Unity Tutorial](https://learn.unity.com/tutorial/start-learning-unity)
+- [W3Schools](https://www.w3schools.com/cs/index.php)
 
 ## Python
 - [FastAPI Documentation](https://fastapi.tiangolo.com/)
